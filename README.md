@@ -36,7 +36,7 @@ O que o sistema terá?
  
 ## Detalhes do Projeto Social
 
-Nosso [Projeto Social Criança Feliz]("https://www.instagram.com/criancafeliz.as/) começou através da iniciativa da minha irmã de religião [Catia]("https://www.instagram.com/catia_520/") ao saber que sua mãe quando criança não tinha um Natal de qualidade por não ter condições financeiras. Assim como sua mãe, a Catia por muitas vezes não ganhava um presente de Natal e isso a fez refletir quanto isso é importante para uma criança e esse lúdico nós não podemos deixar morrer. Observando a nossa volta, no nosso próprio bairro, quantas crianças mais não podem viver esse sonho. 
+Nosso [Projeto Social Criança Feliz](https://www.instagram.com/criancafeliz.as/) começou através da iniciativa da minha irmã de religião [Catia](https://www.instagram.com/catia_520/) ao saber que sua mãe quando criança não tinha um Natal de qualidade por não ter condições financeiras. Assim como sua mãe, a Catia por muitas vezes não ganhava um presente de Natal e isso a fez refletir quanto isso é importante para uma criança e esse lúdico nós não podemos deixar morrer. Observando a nossa volta, no nosso próprio bairro, quantas crianças mais não podem viver esse sonho. 
 E assim, começamos a materializar o nosso sonho e pouco a pouco juntando padrinhos, madrinhas e cada vez com mais e mais crianças, nosso projeto cresceu, floresceu e ao longo desses doze anos, temos nossas crianças como parte da nossa família.
 As crianças e suas famílias possuem alguns requisitos para participar do cadastramentos, como por exemplo ter um bom relacionamento com os estudos, o que é fundamental.
  
