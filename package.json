@@ -1,0 +1,25 @@
+{
+  "name": "on21-imersao-js-s13-projeto-final-conclusao-curso",
+  "version": "1.0.0",
+  "description": "projeto social Natal Feliz das Crianças",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barbarapereira/on21-imersao-js-S13-Projeto-Final-Conclusao-Curso.git"
+  },
+  "author": "Bárbara Pereira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barbarapereira/on21-imersao-js-S13-Projeto-Final-Conclusao-Curso/issues"
+  },
+  "homepage": "https://github.com/barbarapereira/on21-imersao-js-S13-Projeto-Final-Conclusao-Curso#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
