@@ -53,7 +53,6 @@ A dificldade atualmente está em otimizar a lista de padrinhos e crianças, pode
  - [Visual Studio Code]("https://code.visualstudio.com/download"): editor de código para executar a aplicação 
  - [Node]("https://docs.npmjs.com/downloading-and-installing-node-js-and-npm"): uma tecnologia usada para executar código JavaScript fora do navegador
  - [Jest]("https://jestjs.io/docs/getting-started"): para rodar os testes unitários
- - TDD
  - SOLID
  - Clean Code
 
