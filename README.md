@@ -53,6 +53,9 @@ A dificldade atualmente está em otimizar a lista de padrinhos e crianças, pode
  - [Visual Studio Code]("https://code.visualstudio.com/download"): editor de código para executar a aplicação 
  - [Node]("https://docs.npmjs.com/downloading-and-installing-node-js-and-npm"): uma tecnologia usada para executar código JavaScript fora do navegador
  - [Jest]("https://jestjs.io/docs/getting-started"): para rodar os testes unitários
+ - TDD
+ - SOLID
+ - Clean Code
 
 ### Classe Pessoa
 A Classe Pessoa foi criada para ser um modelo de forma generica, com informações básicas que precisamos que uma pessoa tenha na nossa aplicação,  recebendo como parâmetro: **id, nomeCompleto e contato.**. A clase Pessoa foi criada para evitar repetição de código.
